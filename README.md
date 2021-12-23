@@ -1,6 +1,11 @@
 # COSE214_Algorithms
 Assignment source codes for Korea University COSE214 Algorithms (Prof. Soon-Yeong Jeong)
 
+- Assignment 1 : Maximum Subarray Problem
+- Assignment 3 : Heap Sort
+- Assignment 4 : Huffman Coding
+- Assignment 5 : Dijkstra's Algorithm
+
 ## In this course, I learned...
 
 - Definition of the algorithm
